@@ -1,6 +1,6 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Carlos 👨‍💻</h1>
-<h3 align="center">A passionate Web development's student from Brazil</h3>
-
+<h1 align="center">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, sou Carlos Eduardo 👨‍💻</h1>
+<h3 align="center">Estudante de Desenvolvimento Web</h3>
+<br>
 Sou apaixonado por resolver problemas utilizando a programação.
 <br> Sou estudante de ADS :computer:
 
@@ -8,6 +8,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 <br> :blush: &nbsp; Posso te ajudar com **CSS Flexbox**
 <br> 💬  &nbsp; Sobre mim: Curto tecnologias, cybersegurança e seriados no Netflix
 <br> 📫 &nbsp; Como me encontrar **cadudrop@hotmail.com**
+<br> 📄 &nbsp;[Currículo online](https://caducoder.github.io/)
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
