@@ -4,14 +4,14 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 <br> Sou estudante de ADS :computer:
 
-🌱 &nbsp; Estou atualmente estudando **JavaScript**
+🌱 &nbsp; Estou atualmente estudando **Java**
 <br> 😀 &nbsp; Posso te ajudar com **CSS Flexbox**
 <br> 💬 &nbsp; Sobre mim: Curto tecnologias, cybersegurança e seriados no Netflix
 <br> 📄 &nbsp; [Currículo online](https://caducoder.github.io/)
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlos-edu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"></a>
+<a href="https://linkedin.com/in/carloseduardodev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"></a>
 <a href="https://codepen.io/caducoder" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen badge"></a>
 <a href="mailto:cadudrop@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
