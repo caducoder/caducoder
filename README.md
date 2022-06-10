@@ -1,4 +1,4 @@
-<h1 align="center">Olá , sou Carlos Eduardo 👨‍💻</h1>
+<h1 align="center">Olá 👋, sou Carlos Eduardo 👨‍💻</h1>
 <h3 align="center">Estudante de Desenvolvimento Web</h3>
 <br>
 Sou apaixonado por resolver problemas utilizando a programação.
