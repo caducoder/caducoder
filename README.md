@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, sou Carlos Eduardo 👨‍💻</h1>
+<h1 align="center">Olá , sou Carlos Eduardo 👨‍💻</h1>
 <h3 align="center">Estudante de Desenvolvimento Web</h3>
 <br>
 Sou apaixonado por resolver problemas utilizando a programação.
