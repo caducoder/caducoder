@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, sou Carlos Eduardo 👨‍💻</h1>
-<h3 align="center">Estudante de Desenvolvimento Web</h3>
+<h3 align="center">Front-End Developer</h3>
 <br>
 Sou apaixonado por resolver problemas utilizando a programação.
-<br> Sou estudante de ADS :computer:
+<br> Estudante de ADS :computer:
 
 🌱 &nbsp; Estou atualmente estudando **Java**
 <br> 😀 &nbsp; Posso te ajudar com **CSS Flexbox**
@@ -22,7 +22,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
  <div>
   <a href="https://github.com/caducoder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caducoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caducoder&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caducoder&langs_count=6&theme=tokyonight"/>
 </div>
 <br>
 <h3 align="left">Linguagens e ferramentas:</h3>
@@ -49,9 +49,9 @@ Sou apaixonado por resolver problemas utilizando a programação.
 <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a>
+ <a href="https://spring.io" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>      
+ </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>
