@@ -8,6 +8,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 <br> 😀 &nbsp; Posso te ajudar com **React.js**
 <br> 💬 &nbsp; Sobre mim: Curto tecnologias, cybersegurança e seriados no Netflix
 <br> 📄 &nbsp; [Currículo online](https://caducoder.github.io/)
+<br> 🗃 &nbsp; [Portfólio](https://caducoder.vercel.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caducoder&label=Profile%20views&color=0e75b6&style=flat" alt="caducoder" /> </p>
 
