@@ -21,9 +21,8 @@ Sou apaixonado por resolver problemas utilizando a programação.
 
 <div>
  <div>
-  <a href="https://github.com/caducoder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caducoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caducoder&langs_count=6&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caducoder&theme=tokyonight"/>
+  <img height="285em" src="https://github-readme-stats.vercel.app/api?username=caducoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 <h3 align="left">Linguagens e ferramentas:</h3>
