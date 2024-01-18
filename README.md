@@ -1,14 +1,13 @@
 <h1 align="center">Olá 👋, sou Carlos Eduardo 👨‍💻</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <br>
-Sou apaixonado por resolver problemas utilizando a programação.
-<br> Full Stack Developer :computer:
+Sou apaixonado por resolver problemas utilizando a programação. :computer:
 
 🌱 &nbsp; Estou atualmente estudando **Angular e Spring Boot**
 <br> 😀 &nbsp; Posso te ajudar com **React.js**
 <br> 💬 &nbsp; Sobre mim: Curto tecnologias, cybersegurança e seriados no Netflix
-<!-- <br> 📄 &nbsp; [Currículo online](https://caducoder.github.io/) -->
 <br> 🗃 &nbsp; [Portfólio](https://caducoder.vercel.app/)
+<!-- <br> 📄 &nbsp; [Currículo online](https://caducoder.github.io/) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caducoder&label=Profile%20views&color=0e75b6&style=flat" alt="caducoder" /> </p>
 
