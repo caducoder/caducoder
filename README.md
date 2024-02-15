@@ -60,6 +60,12 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> 
  </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" />
+</a>
+<a href="https://docs.expo.dev/" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="expo" />
+</a>
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" /> 
  </a>
