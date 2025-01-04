@@ -84,6 +84,9 @@
  <a href="https://spring.io" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />      
  </a>
+   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />      
+ </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> 
  </a>
