@@ -16,7 +16,7 @@
 
  Sou apaixonado por resolver problemas utilizando a programação. :computer:
 
- 🌱 &nbsp; Estou atualmente estudando **Node.js e Express**
+ 🌱 &nbsp; Estou atualmente estudando **NestJS**
  <br> 😀 &nbsp; Posso te ajudar com **React.js**
  <br> 💬 &nbsp; Sobre mim: Curto tecnologias, cybersegurança e seriados no Netflix
  <br> 🗃 &nbsp; [Portfólio](https://caducoder.vercel.app/)
